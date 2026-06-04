@@ -9,6 +9,7 @@
 /*home*/
 @import "/CSS/home/introducao.css";
 @import "/CSS/home/tecnologia.css";
+@import "/CSS/home/parceiros.css";
 
 /*bicicletas*/
 @import "/CSS/bicicletas/bicicletas-lista.css";
