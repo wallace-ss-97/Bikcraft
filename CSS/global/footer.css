@@ -27,7 +27,7 @@
 }
 .footer-redes {
     display: flex;
-    grid-area: 32px;
+    gap: 32px;
 
 }
 .footer a:hover{
