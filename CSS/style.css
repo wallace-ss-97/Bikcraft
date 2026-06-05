@@ -12,6 +12,8 @@
 @import "/CSS/home/parceiros.css";
 @import "/CSS/home/depoimento.css";
 
-
 /*bicicletas*/
 @import "/CSS/bicicletas/bicicletas-lista.css";
+
+/*seguros*/
+@import "/CSS/seguros/seguros.css";
