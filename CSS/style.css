@@ -6,6 +6,7 @@
 
 /*utilidades*/
 @import "/CSS/utilidades/componentes.css";
+@import "/CSS/utilidades/formulario.css";
 
 /*home*/
 @import "/CSS/home/introducao.css";
@@ -25,6 +26,10 @@
 @import "/CSS/seguros/seguros.css";
 @import "/CSS/seguros/vantagens.css";
 @import "/CSS/seguros/perguntas.css";
+
+/*contato*/
+@import "/CSS/contato/contato.css";
+@import "/CSS/contato/lojas.css";
 
 /*termos*/
 @import "/CSS/termos/termos.css";
